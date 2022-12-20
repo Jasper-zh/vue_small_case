@@ -1,2 +1,2 @@
 # vue_small_case
-学习VUE时编写的各种小案例
+初学VUE时练习的各种小案例
